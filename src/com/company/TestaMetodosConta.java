@@ -1,6 +1,6 @@
 package com.company;
 
-public class TestaMetodos {
+public class TestaMetodosConta {
 
     public static void main(String[] args) {
         Conta conta01 = new Conta();

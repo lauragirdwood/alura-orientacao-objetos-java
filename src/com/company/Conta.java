@@ -2,7 +2,7 @@ package com.company;
 
 public class Conta {
 
-    String titular;
+    Cliente titular;
     int agencia;
     int numero;
     int DAC;
